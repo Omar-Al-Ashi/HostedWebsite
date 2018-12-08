@@ -1,4 +1,2 @@
-# HostedWebsite
-
-This is the website I ended up with 
-omaralashi.info
+# Omar-Al-Ashi.github.io
+My Github hosted personal website
