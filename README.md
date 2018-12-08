@@ -1,2 +1,1 @@
-# Omar-Al-Ashi.github.io
-My Github hosted personal website
+My personal website v1. It was created an hosted on March 24, 2017
